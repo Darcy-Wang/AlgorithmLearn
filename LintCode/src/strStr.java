@@ -1,5 +1,5 @@
 /**
- * Created by Darcy on 2016/10/29.
+ * Created by Darcy on 2016/10/29. new start
  */
 /**
  * Returns a index to the first occurrence of target in source,
@@ -37,6 +37,7 @@ public class strStr {
     }
 
     public static void main(String[] args) {
+
         System.out.println(strStr("source", "rced"));
     }
 }
